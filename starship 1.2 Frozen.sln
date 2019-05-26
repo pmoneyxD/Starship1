@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "starship 1.2 Frozen", "starship 1.2 Frozen.csproj", "{47E8E371-7DEF-2721-8674-217917AF6F74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "starship 1.2 Frozen.Editor", "starship 1.2 Frozen.Editor.csproj", "{5FD8CFF1-4518-B610-ACDF-0DF64F6A8F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E8E371-7DEF-2721-8674-217917AF6F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E8E371-7DEF-2721-8674-217917AF6F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E8E371-7DEF-2721-8674-217917AF6F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E8E371-7DEF-2721-8674-217917AF6F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD8CFF1-4518-B610-ACDF-0DF64F6A8F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD8CFF1-4518-B610-ACDF-0DF64F6A8F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD8CFF1-4518-B610-ACDF-0DF64F6A8F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD8CFF1-4518-B610-ACDF-0DF64F6A8F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
